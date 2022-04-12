@@ -2,6 +2,11 @@
 """
 Author: Wei
 Date: 11/2020
+
+Brazilian Market 
+Author: Vinicius Dias
+04/2022
+
 """
 
 
